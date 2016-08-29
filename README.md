@@ -22,7 +22,7 @@ You have to config one item if you wanna share the accounts and passwords amongs
 $ gem install cocoapods
 ```
 
-> Cocoapods 1.0.0+ is required to build ZRKeyChain 1.0
+> Cocoapods 1.0.0+ is required to build ZRKeyChain 1.1
 
 #### podfile
 
@@ -32,7 +32,7 @@ To integrate ZRKeyChain into your Xcode project using Cocoapods, specify it in y
 source 'https://github.com/VictorZhang2014/ZRKeyChain'
 platform :ios, '7.0'  
 
-pod 'ZRKeyChain', '~>1.0'
+pod 'ZRKeyChain', '~>1.1'
 ```
 Then, run the following command:
 
@@ -90,7 +90,7 @@ Keychain 钥匙串 存储账号和密码，还可以多个应用之间分享此�
 $ gem install cocoapods
 ```
 
-> 编译ZRKeyChain 1.0 要求Cocoapods 1.0.0+ 
+> 编译ZRKeyChain 1.1 要求Cocoapods 1.0.0+ 
 
 #### podfile
 
@@ -100,7 +100,7 @@ $ gem install cocoapods
 source 'https://github.com/VictorZhang2014/ZRKeyChain'
 platform :ios, '7.0'  
 
-pod 'ZRKeyChain', '~>1.0'
+pod 'ZRKeyChain', '~>1.1'
 ```
 然后，运行以下命令
 
