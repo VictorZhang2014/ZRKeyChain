@@ -128,7 +128,9 @@ $ pod install
 
 ## Note
 - 1. 一个server.name可以包含多个账号和密码，或者一个server.name只存储一对账号密码。
+-    server.name 一般是以公司的域名倒着写，如com.domain.ios.zhidao
 - 2. 一个server.name可以获取一对账号密码，这取决于server.name或account.name
+-    account.name 一般是要保存的账户名，如myaccountone
 - 3. 在多个应用之间分享账号和密码，需要配置如下图片
 -     配置选择项步骤
 -     project  ->  target  ->  Capacities  ->  Keychain Sharing 
