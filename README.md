@@ -133,3 +133,6 @@ $ pod install
 -     配置选择项步骤
 -     project  ->  target  ->  Capacities  ->  Keychain Sharing 
 ![ZRKeychain Effect Photo 3](https://github.com/VictorZhang2014/ZRKeyChain/blob/master/screenshots/keychain.png "ZRKeychain")
+=======
+A keychain library for storing accounts and passwords and sharing data between multiple applications in Objective-C
+>>>>>>> 24725e1b6dcc8f21db6a004f4b8da8eed83f8764
