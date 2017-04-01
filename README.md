@@ -2,6 +2,10 @@
 A keychain library for storing accounts and passwords and sharing data between multiple applications in Objective-C. 
 You have to config one item if you wanna share the accounts and passwords amongst multiple applications.
 
+[![Cocoapods Version](https://img.shields.io/cocoapods/v/ZRKeyChain.svg?style=flat)](http://cocoapods.org/pods/ZRKeyChain)
+[![License](https://img.shields.io/cocoapods/l/ZRKeyChain.svg?style=flat)](http://cocoapods.org/pods/ZRKeyChain)
+[![Platform](https://img.shields.io/cocoapods/p/ZRKeyChain.svg?style=flat)](http://cocoapods.org/pods/ZRKeyChain)
+
 - 1.KeyChain is a way that is storing data in safety and security.
 - 2.It still stay in your KeyChain even though you uninstall the application.
 - 3.A new installed app can get these former data from KeyChain .
